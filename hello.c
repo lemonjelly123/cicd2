@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-void main() {
+/*hi*/
+int main() {
   printf("<h1>Hello, Hongik!</h1>");
   return 0;
  }
